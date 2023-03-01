@@ -9,7 +9,7 @@ import { AntDesign } from '@expo/vector-icons';
 function HomeScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text>Home!</Text>
+      <Text> Home!</Text>
     </View>
   );
 }
@@ -33,7 +33,7 @@ function BookMarkScreen() {
 function ProfileScreen() {
   return (
     <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center' }}>
-      <Text> profile!</Text>
+      <Text> profile! </Text>
     </View>
   );
 }
